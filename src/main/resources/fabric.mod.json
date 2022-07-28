@@ -6,12 +6,13 @@
   "name": "Addendum",
   "description": "Adding new blocks to fit your ender palette!",
   "authors": [
-    "Eltrut & Co."
+    "Eltrut & Co.",
+    "4nner"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/addendum-fabric",
-    "sources": "https://github.com/Eltrut-Co/Addendum-Fabric",
-    "issues": "https://github.com/Eltrut-Co/Addendum-Fabric/issues"
+    "homepage": "https://github.com/4nner/Addendum-Fabric",
+    "sources": "https://github.com/4nner/Addendum-Fabric",
+    "issues": "https://github.com/4nner/Addendum-Fabric/issues"
   },
 
   "license": "LGPLv2.1",
@@ -30,10 +31,10 @@
   "accessWidener" : "addendum.accesswidener",
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.14.8",
     "fabric": "*",
-    "minecraft": "1.17.x",
-    "java": ">=16"
+    "minecraft": "1.18.2",
+    "java": ">=17"
   },
   "suggests": {
     "flamingo": "*"
