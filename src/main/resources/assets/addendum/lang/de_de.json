@@ -73,5 +73,6 @@
 	"block.addendum.red_shulker_block": "Roter Shulkerblock",
 	"block.addendum.red_shulker_swirl": "Roter Shulkerwirbelblock",
 	"block.addendum.black_shulker_block": "Schwarzer Shulkerblock",
-	"block.addendum.black_shulker_swirl": "Schwarzer Shulkerwirbelblock"
+	"block.addendum.black_shulker_swirl": "Schwarzer Shulkerwirbelblock",
+	"itemgroup.addendum": "Addendum"
 }

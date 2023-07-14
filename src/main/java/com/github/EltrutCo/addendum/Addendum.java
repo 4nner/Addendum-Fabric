@@ -1,6 +1,7 @@
 package com.github.EltrutCo.addendum;
 
 import com.github.EltrutCo.addendum.registry.AddendumBlocks;
+import com.github.EltrutCo.addendum.registry.AddendumItemGroup;
 import com.github.EltrutCo.addendum.registry.AddendumItems;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
@@ -20,6 +21,7 @@ public class Addendum implements ModInitializer {
 		AddendumBlocks.init();
 
 		log(Level.INFO, "Add-End-Um");
+		AddendumItemGroup.registerItemGroups();
 	}
 
 	public static void log(Level level, String message){
