@@ -73,5 +73,6 @@
 	"block.addendum.red_shulker_block": "Red Shulker Block",
 	"block.addendum.red_shulker_swirl": "Red Shulker Swirl",
 	"block.addendum.black_shulker_block": "Black Shulker Block",
-	"block.addendum.black_shulker_swirl": "Black Shulker Swirl"
+	"block.addendum.black_shulker_swirl": "Black Shulker Swirl",
+	"itemgroup.addendum": "Addendum"
 }

@@ -64,5 +64,6 @@
 	"block.addendum.red_shulker_block": "Красный шалкеровый блок",
 	"block.addendum.red_shulker_swirl": "Красная шалкеровая спираль",
 	"block.addendum.black_shulker_block": "Чёрный шалкеровый блок",
-	"block.addendum.black_shulker_swirl": "Чёрная шалкеровая спираль"
+	"block.addendum.black_shulker_swirl": "Чёрная шалкеровая спираль",
+	"itemgroup.addendum": "Addendum"
 }

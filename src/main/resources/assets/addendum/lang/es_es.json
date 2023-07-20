@@ -73,5 +73,6 @@
 	"block.addendum.red_shulker_block": "Bloque de shulker rojo",
 	"block.addendum.red_shulker_swirl": "Remolino de shulker rojo",
 	"block.addendum.black_shulker_block": "Bloque de shulker negro",
-	"block.addendum.black_shulker_swirl": "Remolino de shulker negro"
+	"block.addendum.black_shulker_swirl": "Remolino de shulker negro",
+	"itemgroup.addendum": "Addendum"
 }
